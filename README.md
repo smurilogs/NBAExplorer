@@ -14,7 +14,8 @@
 
 #### Built with
 
-
+* Python 3.8
+* Pandas
 
 ## 2. Requirements
 
